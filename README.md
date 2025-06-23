@@ -16,9 +16,3 @@
 - 📦 QRCode.react
 - 🌀 Framer Motion
 
-## 🚀 Live Demo
-
-[Visit Live App](https://split-upi.vercel.app) <!-- or your Render link -->
-
-## 📁 Project Structure
-
